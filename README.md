@@ -1,6 +1,7 @@
 # RDP
 # Laboratorio GNS3 — Guía paso a paso completa
 ## RD RemoteApp + RD Web Client + IIS + NPS (RADIUS) + AAA en Router
+Link video: https://youtu.be/IRjlGvf4GNM
 
 ## Topología y direccionamiento (tal como la armaste)
 
